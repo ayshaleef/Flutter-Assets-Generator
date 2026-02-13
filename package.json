@@ -1,10 +1,10 @@
 {
-  "name": "flutter-assets-generator",
+  "name": "flutter-assets-auto-generator",
   "displayName": "Flutter Assets Generator",
   "description": "Automatically generates and updates Dart classes for your Flutter assets to ensure type-safe and typo-free paths.",
   "version": "0.0.1",
   "icon": "images/icon.png",
-  "publisher": "ayman-dev",
+  "publisher": "ayshaleef",
   "repository": {
   "type": "git",
   "url": "https://github.com/ayshaleef/Flutter-Assets-Generator.git"
