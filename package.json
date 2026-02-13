@@ -1,6 +1,6 @@
 {
-  "name": "flutter-assets-auto-generator",
-  "displayName": "Flutter Assets Generator",
+  "name": "flutter-assetsapp-generator",
+  "displayName": "Flutter AssetsApp Generator",
   "description": "Automatically generates and updates Dart classes for your Flutter assets to ensure type-safe and typo-free paths.",
   "version": "0.0.1",
   "icon": "images/icon.png",
